@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1dlKzvtXyyYd_y1hfeTGp6dFfscYN7_dm?usp=sha
 
 ## Project PPT
 
-<a href:"https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1"> PPT Google sheet </a>
+<p>The <a href="#Mailing_address">company mailing address</a> can be found at the bottom of this page.</p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project 구성도
