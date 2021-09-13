@@ -2,7 +2,7 @@
 
 https://drive.google.com/drive/folders/1dlKzvtXyyYd_y1hfeTGp6dFfscYN7_dm?usp=sharing
 ## Project PPT
-https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1
+<href:https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1/>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project 구성도
