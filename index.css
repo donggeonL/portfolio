@@ -360,7 +360,7 @@ p {
   align-items: center;
   width: 280px;
   height: 250px;
-  margin: 2px;
+  margin: 5px;
   background-color: var(--color-light-white);
 }
 
@@ -387,6 +387,7 @@ p {
   opacity: 0;
   transform: translateY(10px);
   transition: all var(--animation-duration) ease-in;
+  border-radius: 15px;
 }
 
 .project:hover .project__description {
@@ -545,4 +546,17 @@ p {
     width: 80px;
     height: 80px;
   }
+
+  .img__size{
+    width: 300px;
+    height: 30px;
+    object-fit: cover;
+  }
+}
+
+.img_style{
+  width: 280px;
+  height: 250px;
+  border: tomato solid 1px;
+  border-radius: 15px;
 }
