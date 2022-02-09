@@ -2,7 +2,7 @@
 
 ## Project PPT
 
-> <a href="https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1">My Portfolio PPT </a>
+> <a href="https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1">My Portfolio PPT </a></br>
 > <a href="https://donggeonl.github.io/portfolio/">My Portfolio Site </a>
  
 ## Project 구성도
