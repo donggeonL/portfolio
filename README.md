@@ -1,9 +1,9 @@
 <h1> portfolio project
 
-## Project PPT
-
+## Project
 > <a href="https://docs.google.com/presentation/d/14eKG2WjbxBjXS6IY2ZXBqqgFe1zC2XkdDgiVrNnXM7E/edit#slide=id.p1">My Portfolio PPT </a></br>
 > <a href="https://donggeonl.github.io/portfolio/">My Portfolio Site </a>
+> 현재 EC2 소멸로 인해 githubpage로 대체
  
  
 ## Project 상세
