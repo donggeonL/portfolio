@@ -7,3 +7,7 @@
  
 ## Project 구성도
  > ![image](https://user-images.githubusercontent.com/87507644/132822506-b37e16ef-6993-4f0a-af52-f24ac76bf2e4.PNG)
+
+## Project 구성도
+ > ![image](https://user-images.githubusercontent.com/87507644/153647914-5954670c-d1da-41b6-8536-d52f6de928ea.png)
+
