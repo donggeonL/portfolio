@@ -358,8 +358,8 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 280px;
-  height: 250px;
+  width: 250px;
+  height: 220px;
   margin: 5px;
   background-color: var(--color-light-white);
 }
@@ -548,15 +548,15 @@ p {
   }
 
   .img__size{
-    width: 300px;
+    width: 250px;
     height: 30px;
     object-fit: cover;
   }
 }
 
 .img_style{
-  width: 280px;
-  height: 250px;
+  width: 250px;
+  height: 220px;
   border: mediumpurple solid 1px;
   border-radius: 15px;
 }
